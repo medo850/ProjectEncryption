@@ -8,8 +8,8 @@ namespace projectRamzy
 {
     class Encoding
     {
-        // static void main(string[] args)            
-            public static void medo()
+        static void main(string[] args)            
+            
         {
             Console.WriteLine("Encrypt");
             Console.WriteLine();
